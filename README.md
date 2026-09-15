@@ -49,6 +49,7 @@ Embed via the SDK or the MCP server with your referral code in the appData, and 
 - SDK: https://www.npmjs.com/package/@ophis/sdk
 - Source: https://github.com/ophis-fi/ophis
 - X: https://x.com/ophis_fi
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 Built an Ophis integration? Open a PR adding it here. Keep entries to one line: name, link, and what it does.
