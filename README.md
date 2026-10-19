@@ -8,6 +8,7 @@ Ophis settles every trade through CoW Protocol's batch auction, so trades are ME
 - [Start here](#start-here)
 - [SDK](#sdk)
 - [MCP server (AI agents)](#mcp-server-ai-agents)
+- [Ophis CLI](#ophis-cli)
 - [Widget](#widget)
 - [Examples](#examples)
 - [Chains](#chains)
@@ -30,6 +31,11 @@ A Model Context Protocol server that gives any agent a swap tool (quote, build, 
 - Hosted endpoint + per-client setup: see [docs.ophis.fi](https://docs.ophis.fi)
 - Works with Claude Desktop, Cursor, Cline, Goose, and any MCP client.
 
+## Ophis CLI
+Quote, swap and bridge from your terminal, with every step approved in your own phone wallet (keys never leave it).
+- npm: [`@ophis/cli`](https://www.npmjs.com/package/@ophis/cli), install with `npm install -g @ophis/cli` (Node.js 20 or later)
+- Guide: [docs.ophis.fi/cli](https://docs.ophis.fi/cli)
+
 ## Widget
 An embeddable swap widget for a brand-light integration (frame-embeddable; wallet signing stays out of frame).
 - See `examples/widget-embed` in the monorepo.
@@ -47,6 +53,7 @@ Embed via the SDK or the MCP server with your referral code in the appData, and 
 - App: https://ophis.fi
 - Docs: https://docs.ophis.fi
 - SDK: https://www.npmjs.com/package/@ophis/sdk
+- CLI: https://www.npmjs.com/package/@ophis/cli
 - Source: https://github.com/ophis-fi/ophis
 - X: https://x.com/ophis_fi
 
